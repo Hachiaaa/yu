@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-
 Gem::Specification.new do |spec|
   spec.name          = "yu"
   spec.version       = "0.0.1"

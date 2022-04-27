@@ -1,0 +1,3 @@
+def factor(n)
+    
+end
